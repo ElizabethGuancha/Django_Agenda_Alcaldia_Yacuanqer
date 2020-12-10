@@ -1,1 +1,1 @@
-web: gunicorn almacen.wsgi --log-file -
+web: gunicorn almacen.wsgi --log_file -
